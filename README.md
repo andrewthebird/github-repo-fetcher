@@ -13,4 +13,4 @@ This script fetches details about GitHub repositories of a specified organizatio
 ## Usage
 
 ```bash
-python script.py <organization_name> [--limit <limit>]
+python fetch-repos.py <organization_name> [--limit <limit>]
