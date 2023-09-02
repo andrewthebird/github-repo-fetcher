@@ -8,7 +8,6 @@ This script fetches details about GitHub repositories of a specified organizatio
 
 - Python 3.x
 - `gh` CLI tool installed and authenticated
-- `jq` for JSON parsing (optional)
 
 ## Usage
 
